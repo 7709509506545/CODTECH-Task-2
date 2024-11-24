@@ -54,6 +54,8 @@ When the user clicks "Convert," the program should convert marks to correspondin
         }
     }
 You can also calculate the average score, total marks, or any other related computation.
+
+
 Snapshot 
 
 ![StudentGrade Output2](https://github.com/user-attachments/assets/aa6123fc-5c5d-4246-ab38-8602fbb1c59c)
